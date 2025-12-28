@@ -9,26 +9,36 @@
 
   </a>
 </div>
-<h1 align="center"> 😎🔥About Me: </h1>
-<h3 align="center">A passionate Cyber Security| Ethical Hacker from India</h3>
+<h1 align="center"> 🔥😎 About Me:  
+</h1>
+<h3 align="center">Cyber Security Researcher | Bug Bounty Hunter | Web Application & Network Penetration Tester | Ethical Hacker | CTF Player 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberprince-hub&label=Profile%20views&color=0e75b6&style=flat" alt="cyberprince-hub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberprince-hub" alt="cyberprince-hub" /></a> </p>
 
-- 🌱 I’m currently learning **Bug bounty | Penetration testing**
 
-- 👯 I’m looking to collaborate on **Infosys**
+🚀 Continuously expanding my expertise in Cybersecurity & Ethical Hacking.
 
-- 🤝 I’m looking for help with **Ethical Hacker**
+💻 Strong focus on Web Application Penetration Testing (WAPT) & Bug Bounty Hunting.
 
-- 💬 Ask me about **Cyber security Expert**
+🐞 Specialized interest in OWASP TOP 10 vulnerabilities.
+
+🐧 Linux power user, learning Privilege Escalation & Automation.
+
+🎮 Active learner on TryHackMe, Hack The Box, & PortSwigger Web Security Academy.
+
+🎓 BCA Graduate – Chandigarh University.
+
+🎯 Career goal: Cybersecurity Analyst / Web Security Engineer.
+
+
 
 - 📫 How to reach me **princeroy01924@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/exploit.prince_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="exploit.prince_roy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-roy-4046a7329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="exploit.prince_roy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
