@@ -15,23 +15,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberprince-hub&label=Profile%20views&color=0e75b6&style=flat" alt="cyberprince-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberprince-hub" alt="cyberprince-hub" /></a> </p>
+🚀 **Continuously expanding my expertise in Cybersecurity & Ethical Hacking.**
 
+💻 **Strong focus on Web Application Penetration Testing (WAPT) & Bug Bounty Hunting.**
 
-🚀 Continuously expanding my expertise in Cybersecurity & Ethical Hacking.
+🐞 **Specialized interest in OWASP TOP 10 vulnerabilities.**
 
-💻 Strong focus on Web Application Penetration Testing (WAPT) & Bug Bounty Hunting.
+🐧 **Linux power user, learning Privilege Escalation & Automation.**
 
-🐞 Specialized interest in OWASP TOP 10 vulnerabilities.
+🎮 **Active learner on TryHackMe, Hack The Box, & PortSwigger Web Security Academy.**
 
-🐧 Linux power user, learning Privilege Escalation & Automation.
+🎓 **BCA Graduate** – Chandigarh University.
 
-🎮 Active learner on TryHackMe, Hack The Box, & PortSwigger Web Security Academy.
-
-🎓 BCA Graduate – Chandigarh University.
-
-🎯 Career goal: Cybersecurity Analyst / Web Security Engineer.
-
+🎯 **Career goal:** Cybersecurity Analyst / Web Security Penetration Tester
 
 
 - 📫 How to reach me **princeroy01924@gmail.com**
